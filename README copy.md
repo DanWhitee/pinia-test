@@ -1,4 +1,4 @@
-# pinia-test
+# vue-test
 
 ## Project setup
 ```
